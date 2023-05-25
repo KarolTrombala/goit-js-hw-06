@@ -125,6 +125,7 @@ Licznik składa się z elementu span i przycisków, które, po ich kliknięciu, 
 Utwórz zmienną counterValue w której będzie przechowywana aktualna wartość licznika i nadaj jej początkową wartość wartość 0.
 Dodaj click listeners do przycisków, i przy ich pomocy zwiększaj i zmniejszaj wartość licznika.
 Aktualizuj interfejs (widok HTML) nową wartością zmiennej counterValue po każdej jej zmianie.
+
 Zadanie 5
 Napisz skrypt, który przy wpisywaniu tekstu w polu input input#name-input (zdarzenie input) wstawia jego aktualną wartość do span#name-output. Jeśli pole input jest puste, w spanie powinien wyświetlić się tekst "Anonymous".
 
