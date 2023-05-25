@@ -23,4 +23,4 @@ for (const image of images) {
     <img class="galleryImage" src="${image.url}" alt="${image.alt}"/>
     </li>`
   );
-}
+};
