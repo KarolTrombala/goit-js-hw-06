@@ -190,6 +190,7 @@ Podczas przesyłania formularza strona nie powinna się odświeżać.
 Jeśli w formularzu są nieuzupełnione pola, wyświetl alert z upomnieniem o tym, że wszystkie pola powinny zostać wypełnione.
 Jeśli użytkownik uzupełnił wszystkie pola i wysłał formularz, pobierz wartość pól jako obiekt, gdzie nazwa pola będzie nazwą właściwości, a wartość pola - wartością właściwości. Aby otrzymać dostęp do elementów formularza użyj właściwości elements.
 Wypisz obiekt z wartościami formularza w konsoli i wyczyść wartości pól input metodą reset.
+
 Zadanie 9
 Napisz skrypt, który zmienia kolor tła elementu <body> (poprzez style inline) po kliknięciu na button.change-color i wyświetla wartość koloru w span.color.
 
