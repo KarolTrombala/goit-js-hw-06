@@ -1,4 +1,6 @@
 
+https://karoltrombala.github.io/goit-js-hw-06/
+
 Kryteria przyjęcia
 
 Utworzono repozytorium goit-js-hw-06.
