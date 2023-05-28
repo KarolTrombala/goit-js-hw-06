@@ -6,15 +6,15 @@ const incrementBtn = counter.querySelector('[data-action="increment"]');
 const decrementBtn = counter.querySelector('[data-action="decrement"]');
 
 function updateDisplay() {
-    value.textContent = counterValue;
-  }
+  value.textContent = counterValue;
+}
 
 incrementBtn.addEventListener("click", () => {
-  counterValue ++;
+  counterValue++;
   updateDisplay();
 });
 
 decrementBtn.addEventListener("click", () => {
-  counterValue --;
+  counterValue--;
   updateDisplay();
 });
